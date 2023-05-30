@@ -2,7 +2,7 @@
 
 ## 1. 介紹
 
-<img width="800" height="800" src="https://github.com/teikunsha/store_spring_boot/blob/master/img-readme/store-spring-boot.png"/>
+<img width="800" height="500" src="https://github.com/gsbka7/resume_v.2/blob/master/img-readme/resume.png"/>
 
 ### 前端：
 
@@ -10,4 +10,4 @@
 
 ## 3. 部署
 
-#### [https://store-spring-boot.onrender.com/](https://store-spring-boot.onrender.com/)
+#### [https://gsbka7.github.io/resume_v.2/](https://gsbka7.github.io/resume_v.2/)
